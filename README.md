@@ -1,2 +1,2 @@
 # hello_world
-just study
+just study how to use repository
